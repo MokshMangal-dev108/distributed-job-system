@@ -1,0 +1,21 @@
+# CLion
+.idea/
+
+# CMake build directory
+cmake-build-*/
+
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS files
+.DS_Store
+Thumbs.db
