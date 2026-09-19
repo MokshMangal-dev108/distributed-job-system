@@ -26,26 +26,6 @@ Client  ────────────────────────
                          v
                     Job::execute()
 ```
-
-## Current Features
-
-* C++20
-* Object-oriented design
-* Job creation and management
-* Thread-safe job storage
-* Thread-safe job queue
-* Producer-consumer pattern
-* `std::mutex`
-* `std::lock_guard`
-* `std::unique_lock`
-* `std::condition_variable`
-* Thread pool implementation
-* Multiple worker threads
-* TCP server using Windows Winsock
-* Multiple TCP clients
-* Simple command-based protocol
-* Graceful worker shutdown
-
 ## Supported Commands
 
 The server currently supports:
